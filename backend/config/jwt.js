@@ -9,3 +9,22 @@ const verifyToken = (token) => {
 }
 
 module.exports = { generateToken, verifyToken}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
